@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import data from './data'
-import '../style.css';
+
 export default function App()
 {
     const[selected,setSelected] = useState(null)

@@ -12,7 +12,8 @@ import { createRoot } from "react-dom/client"
 // import App from './Components/Scroll-Indicator/App'
 // import App from './Components/custom-tabs/App'
 // import Parent from './Components/custom-popup/parent'
-import Git from './Components/git-profile-finder/Git'
+// import Git from './src/Components/git-profile-finder/Git'
+// import App from '../search-autoComplete/AutoComplete'
 
 
 
@@ -28,6 +29,7 @@ root.render(
 /* <App menus={menus}/> */ 
 /* <App url={'https://dummyjson.com/products?limit=100'}/> */
 /* <Parent/> */
-<Git/>
+/* <Git/> */
+<App/>
 )
 
